@@ -1,4 +1,4 @@
-# bldc_mobile_app
+# BLDC Motor Driver - Mobile App
 
 STM32F103 tabanlı sensörlü (Hall sensörlü) BLDC motor sürücü kartı için geliştirilmiş, HC-05 Bluetooth modülü üzerinden haberleşen Flutter mobil uygulaması. Motorun hız, akım ve durum telemetrisini gerçek zamanlı izlemeyi ve kontrol parametrelerini uzaktan ayarlamayı sağlar.
 
